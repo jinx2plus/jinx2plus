@@ -1,6 +1,6 @@
 # Hi, I'm Yong Jin Park 👋
 
-🗺️ **GIS & Spatial Data Engineer** | Transportation data Enthusiast | Problem Solver | Mobility Data Scientist | Traffic Engineering Ph.D. Candidate of University of Seoul | Senior Research Engineer at Ways1(Pangyo, ROK)
+🗺️ **GIS & Spatial Data Engineer** | Transportation data Enthusiast | Problem Solver | Mobility Data Scientist | Traffic Engineering Ph.D. Candidate of University of Seoul | Senior Research Engineer at Ways1(Pangyo, ROK) | 10 years of experience(from Masters degree)
 
 I'm passionate about leveraging geospatial technology to solve real-world transportation challenges. I specialize in building solutions that handle complex spatial data and mapping systems.
 
