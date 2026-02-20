@@ -7,10 +7,10 @@ I'm passionate about leveraging geospatial technology to solve real-world transp
 ## 🔧 What I Work With
 - **Geospatial Technologies:** GIS, spatial databases, mapping APIs
 - **Transportation & Logistics:** Route optimization, network analysis
-- **Skills:** Python (Expert), SQL
+- **Skills:** Python (Expert), SQL, R
 - **Data Engineering**: GeoPandas, Dask, Pandas, Polars, Numpy, seaborn, matplotlib etc..
 - **Domain**: Transportation Engineering, Traffic Safety Analysis, HD-Map, Node-Link Network
-- **Tools**: GIS (QGIS), Git, PostgreSQL/PostGIS, SUMO, VISSIM
+- **Tools**: GIS(Q-GIS), Git, PostgreSQL/PostGIS, SUMO, VISSIM
 - **Human Language**: Korean(born with), English(lived in USA as an elementary school student, studied GRE and TOEFL)
 
 ## 📍 Current Focus
@@ -21,7 +21,7 @@ I'm passionate about leveraging geospatial technology to solve real-world transp
 - **Email:** 7870park@kakao.com
 - **LinkedIn:** https://www.linkedin.com/in/yjinpark/
 
-*I'm interested in roles involving geospatial analysis, backend engineering, or transportation/mobility sector.*
+*I'm interested in roles involving geospatial analysis, backend engineering in the transportation/mobility sector.*
 
 <!---
 jinx2plus/jinx2plus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
