@@ -1,8 +1,9 @@
-# Yong Jin Park | 모빌리티 사업 전략가 | Spatial Data 기반 실행 전문가 🚘 Mobility Business & Spatial Data Strategist👋
+# Yong Jin Park | 연구를 서비스로 연결하는 교통·공간데이터 엔지니어 🚘 Spatial Data Engineer | Transportation Safety Data Analyst👋
 
 데이터 기반 의사결정 구조를 설계하여 공공 모빌리티 사업과 교통 안전 전략을 실행하는 교통공학 기반 데이터 전략가
 🗺️ Mobility Business Strategist with Spatial Data Engineering Expertise
 
+저는 개발을 이해하는 연구기획자이자, 사업 요구사항을 데이터 구조로 구현하는 엔지니어입니다. 교통안전 문제를 PostGIS·Python 기반 공간데이터 파이프라인으로 정리하고, AI 모델과 공공 플랫폼이 실제로 사용할 수 있는 형태로 연결해 왔습니다.
 I'm passionate about leveraging geospatial technology to solve real-world transportation challenges. I specialize in building solutions that handle complex spatial data and mapping systems.
 
 ## 🚀 내가 만드는 가치 | What I Deliver 
@@ -17,6 +18,7 @@ I'm passionate about leveraging geospatial technology to solve real-world transp
 - Translated transportation domain knowledge into business-ready insights  
 - Supported public mobility expansion through spatial demand analysis
 - Led cross-functional collaboration with backend/frontend engineers and government stakeholders to operationalize AI-based mobility solutions and secure follow-up projects
+Rather than just analyzing data, I design and build data structures that can be directly used in AI models and real-world mobility services.
 
 ---
 
@@ -62,12 +64,12 @@ My strength lies in:
 
 ### 🚦교통공학 분석 | Transportation Analytics
 - Traffic safety modeling (Zero-Inflated models)
-- O/D demand analysis
 - Simulation (SUMO, VISSIM)
+- AI model development
 
 ## 🔧 기술 | Skills
 - **Geospatial Technologies:** GIS, spatial databases, mapping APIs
-- **Transportation & Logistics:** Route optimization, network analysis, node-link network analysis 
+- **Transportation & Logistics:** optimization problems based on road network & node-link network analysis 
 - **Skills:** Python(Expert), SQL, R
 - **Data Engineering**: GeoPandas, Dask, Pandas, Polars, Numpy, seaborn, matplotlib etc..
 - **Domain**: Transportation Engineering, Traffic Safety Analysis, HD-Map, Node-Link Network, ITS Standard Node-Link
