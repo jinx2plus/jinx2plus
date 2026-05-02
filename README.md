@@ -8,7 +8,7 @@ I'm passionate about leveraging geospatial technology to solve real-world transp
 
 ## 🚀 내가 만드는 가치 | What I Deliver 
 - 14:1 경쟁률의 AI 교통안전 국책과제 수주 및 실무책임 수행  
-- 대규모 GPS 데이터 기반 맵매칭 자동화 파이프라인 구축  
+- 전국 화물차 위험주행행동 GPS 데이터 기반 맵매칭 자동화 파이프라인 구축 (수작업 기준 1주일 작업소요시간을 3시간으로 단축, 자동화율 100%)
 - 교통공학 도메인을 사업 의사결정 인사이트로 전환  
 - 신규 사업지 수요 분석 기반 공공 모빌리티 확장 전략 지원
 - 백엔드·프론트엔드 개발자 및 국토교통부·공단 관계자와의 의사소통 간 윤활유 및 추진 역할로 AI 기반 모빌리티 솔루션을 실증 단계로 확장하고 후속 과제를 확보
@@ -68,7 +68,7 @@ My strength lies in:
 - AI model development
 
 ## 🔧 기술 | Skills
-- **Geospatial Technologies:** GIS, spatial databases, mapping APIs
+- **Geospatial Technologies:** GIS, spatial databases, mapping APIs, Nation wide scale of National Highways & expressways 
 - **Transportation & Logistics:** optimization problems based on road network & node-link network analysis 
 - **Skills:** Python(Expert), SQL, R
 - **Data Engineering**: GeoPandas, Dask, Pandas, Polars, Numpy, seaborn, matplotlib etc..
