@@ -19,6 +19,7 @@ I'm passionate about leveraging geospatial technology to solve real-world transp
 - Supported public mobility expansion through spatial demand analysis
 - Led cross-functional collaboration with backend/frontend engineers and government stakeholders to operationalize AI-based mobility solutions and secure follow-up projects
 Rather than just analyzing data, I design and build data structures that can be directly used in AI models and real-world mobility services.
+- Bridge research, engineering, and business requirements  
 
 ---
 
@@ -42,7 +43,7 @@ Rather than just analyzing data, I design and build data structures that can be 
 
 - 교통공학 도메인을 확장 가능한 데이터 구조로 구현  
 - 신규 사업지 분석 및 수요 기반 전략 수립 지원  
-- 복잡한 공간 데이터를 사업 의사결정 인사이트로 전환
+- 복잡한 전국범위 공간 데이터를 사업 의사결정 인사이트로 전환
 
 My strength lies in:
 - Translating transportation domain knowledge into scalable data pipelines  
@@ -55,7 +56,7 @@ My strength lies in:
 - Public mobility project proposal & execution
 - RFP analysis & government collaboration
 - Data-based service performance evaluation
-- Cooperation with various
+- Cooperation with various developers
 
 ### 🗺 공간데이터 가공 | Spatial Data Engineering
 - Large-scale GPS trajectory processing
@@ -78,8 +79,7 @@ My strength lies in:
 
 ## 📍관심사 | Current Focus
 🌱 Expanding expertise in Traffic Safety sector and mobility.
-- 위험도 기반 모빌리티 전략 설계  
-- 공공 MaaS 및 DRT 확장 전략  
+- 위험도 기반 모빌리티 안전 정책 기획 및 유지보수
 - AI 기반 모빌리티 운영 최적화
   
 - Traffic Safety & Risk-based Mobility Strategy  
