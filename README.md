@@ -92,6 +92,10 @@ My strength lies in:
 
 *I'm interested in roles of solving hard problems with data-driven insight in the transportation/mobility sector.*
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinx2plus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinx2plus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 jinx2plus/jinx2plus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
