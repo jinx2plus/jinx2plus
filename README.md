@@ -21,6 +21,33 @@ I'm passionate about leveraging geospatial technology to solve real-world transp
 Rather than just analyzing data, I design and build data structures that can be directly used in AI models and real-world mobility services.
 - Bridge research, engineering, and business requirements  
 
+## Representative Projects
+
+### Large-Scale Mobility Data Processing
+
+[MapmatchingTrajectorytoLinks](https://github.com/jinx2plus/MapmatchingTrajectorytoLinks)
+- 화물차 DTG/GPS 로그를 표준 노드-링크 체계에 정합하는 맵매칭 파이프라인
+- 차량별 연속 운전 구간 추출, 속도·방향 기반 이상치 필터링, 링크 단위 통행량 집계
+- 공간 인덱싱 기반 후보 링크 탐색으로 반복 매칭 비용 절감
+
+### ML-Based Mobility Pattern Analysis
+
+[DEC_DLmodel](https://github.com/jinx2plus/DEC_DLmodel)
+- 교통 검지기 시계열 데이터를 Autoencoder와 DEC 기반 잠재공간 군집으로 분석
+- 이용 패턴 세분화, 운영 전략 수립, 비지도 ML 기반 행동 유형 탐색에 연결 가능한 실험
+
+### Effect Validation and Sparse Event Modeling
+
+[Zero-InflatedModelforAccidentAnalysis](https://github.com/jinx2plus/Zero-InflatedModelforAccidentAnalysis)
+- 사고처럼 0이 많은 희소 이벤트 데이터를 Zero-Inflated 계수 모델로 분석
+- 정책·시설 효과 검증과 의사결정자 설득을 위한 해석 가능한 모델링 구조 정리
+
+### PostGIS-Based Spatial Data Production
+
+[floodrisk](https://github.com/jinx2plus/floodrisk)
+- Vworld 재해위험지구 polygon과 PostGIS 도로 링크를 공간 조인해 링크 단위 위험 데이터를 생성
+- 외부 API, GPKG, PostGIS 업로드, 공간 매칭 테스트를 포함한 재현 가능한 데이터 구축 흐름
+
 ---
 
 ## 🏗 포지셔닝 | Professional Positioning & Professional background
