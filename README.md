@@ -1,8 +1,3 @@
-<!-- BANNER -->
-<img src="./github_profile_banner.jpg" width="100%" style="border-radius: 8px;" />
-
-<br/>
-
 <div align="center">
 
 # 🚘 Yong Jin Park (jinx2plus)
@@ -29,12 +24,12 @@
 ## 📊 GitHub Stats & Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinx2plus&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinx2plus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jinx2plus&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jinx2plus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinx2plus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jinx2plus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
