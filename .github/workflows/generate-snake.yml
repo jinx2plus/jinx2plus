@@ -1,0 +1,44 @@
+name: Generate Snake
+
+on:
+  # 12시간마다 자동 실행
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # 수동 실행 가능 설정
+  workflow_dispatch:
+  
+  # main 브랜치에 변경 사항이 반영될 때 실행
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # 리포지토리 체크아웃
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # github contribution grid snake 생성
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      # 생성된 SVG 파일을 main 브랜치에 직접 커밋 및 푸시
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+          git commit -m "chore: update contribution snake SVG" || exit 0
+          git push
