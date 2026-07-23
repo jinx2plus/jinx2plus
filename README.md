@@ -5,6 +5,7 @@
 UPDATE on.. 2026-07-17
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Spatial+Data+Engineer;Mobility+Business+Strategist;Ph.D.+Candidate+@+UOS;Python+%26+R+%26+PostGIS)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yjinpark-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yjinpark/)
 
 </div>
 
