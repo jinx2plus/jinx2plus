@@ -11,7 +11,7 @@ UPDATE on.. 2026-07-17
 
 ---
 
-## Me?
+## <img src="./reicon-icons/home.svg" width="20" height="20" align="absmiddle" alt=""> Me?
 
 ### 연구를 서비스로 연결하는 교통·공간데이터 엔지니어 & 사업기획 & 데이터 분석가
 ### 교통·모빌리티 도메인을 이해하는 Senior Geospatial Data Enginee
@@ -24,7 +24,7 @@ UPDATE on.. 2026-07-17
 
 ---
 
-## GitHub Stats & Activities
+## <img src="./reicon-icons/code.svg" width="20" height="20" align="absmiddle" alt=""> GitHub Stats & Activities
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=jinx2plus&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
@@ -37,7 +37,7 @@ UPDATE on.. 2026-07-17
 
 ---
 
-## 내가 만드는 가치 | What I Deliver
+## <img src="./reicon-icons/briefcase.svg" width="20" height="20" align="absmiddle" alt=""> 내가 만드는 가치 | What I Deliver
 
 - **AI 교통안전 국책과제 수주**: 14:1 경쟁률의 과제 수주 및 실무책임 수행  
 - **GPS 맵매칭 자동화 파이프라인 구축**: 전국 화물차 위험주행행동 GPS 데이터 기반 자동화 파이프라인 구축 (수작업 기준 1주일 작업소요시간을 3시간으로 단축)
@@ -47,7 +47,7 @@ UPDATE on.. 2026-07-17
 
 ---
 
-## Tech Stack & Tools
+## <img src="./reicon-icons/database.svg" width="20" height="20" align="absmiddle" alt=""> Tech Stack & Tools
 
 <table width="100%">
   <tr>
@@ -75,7 +75,7 @@ UPDATE on.. 2026-07-17
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>Geospatial & GIS Engineering</h4>
+      <h4><img src="./reicon-icons/map.svg" width="18" height="18" align="absmiddle" alt=""> Geospatial & GIS Engineering</h4>
       <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
       <img src="https://img.shields.io/badge/GeoPandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/Shapely-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
@@ -114,3 +114,5 @@ UPDATE on.. 2026-07-17
     <img alt="github contribution grid snake" src="./github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+<sub>Icons: <a href="https://github.com/dqev/reicon">Reicon</a> (MIT License)</sub>
