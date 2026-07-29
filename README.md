@@ -14,7 +14,7 @@ UPDATE on.. 2026-07-17
 ## <img src="./reicon-icons/home.svg" width="20" height="20" align="absmiddle" alt=""> Me?
 
 ### 연구를 서비스로 연결하는 교통·공간데이터 엔지니어 & 사업기획 & 데이터 분석가
-### 교통·모빌리티 도메인을 이해하는 Senior Geospatial Data Enginee
+### 교통·모빌리티 도메인을 이해하는 Senior Geospatial Data Engineer
 데이터 기반 의사결정 구조를 설계하여 공공 모빌리티 사업과 교통 안전 전략을 실행하는 교통공학 기반 데이터 전략가입니다.
 교통안전 문제를 **PostGIS**와 **Python** 기반 공간데이터 파이프라인으로 정리하고, AI 모델과 공공 플랫폼이 실제로 사용할 수 있는 형태로 연결해 왔습니다.
 회사에 돈을 벌어주는 제안서도 쓰고 UI/UX 구성, KPI 지표 설정 외 행정업무도 합니다。 
