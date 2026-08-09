@@ -2,6 +2,7 @@
 
 # Yong Jin Park
 ### Spatial Data Engineer | Data Analyst | Mobility Business Strategist | Ph.D. Candidate
+- Python/PostGIS 공간데이터 엔지니어링 + 교통공학&모빌리티 도메인 전공 + B2G 제안서 작성
 UPDATE on.. 2026-07-17
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Spatial+Data+Engineer;Mobility+Business+Strategist;Ph.D.+Candidate+@+UOS;Python+%26+R+%26+PostGIS)](https://git.io/typing-svg)
