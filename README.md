@@ -108,6 +108,16 @@ UPDATE on.. 2026-07-17
 
 ---
 
+## Contribution City
+
+<p align="center">
+  <img src="./contribution-city.svg" alt="YJP GitHub Contribution City" width="100%" />
+</p>
+
+<sub>Last 365 days · one building per day · building height reflects contribution activity</sub>
+
+---
+
 ## Contribution Snake
 
 <p align="center">
