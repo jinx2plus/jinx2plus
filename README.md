@@ -98,13 +98,8 @@ AI창궐 시대에 어떻게 하면 밥그릇을 뻇기지 않을지 계속 고�
   <tr>
     <td valign="top" width="50%">
       <h4>AI-Assisted Development Workflow</h4>
-      <strong>Planning &amp; Architecture:</strong> Claude<br/>
-      <strong>Code Editing &amp; Debugging:</strong> OpenAI Codex<br/>
-      <strong>AI Harness &amp; UI:</strong> Orca, T3 Code<br/>
-      <strong>AI Bot:</strong> Grok Bot<br/><br/>
       <img src="https://img.shields.io/badge/Claude-Planning-D97757?style=for-the-badge" alt="Claude Planning" />
       <img src="https://img.shields.io/badge/Codex-Code%20%26%20Debugging-1F2937?style=for-the-badge" alt="Codex" />
-      <img src="https://img.shields.io/badge/Orca-AI%20Harness-2563EB?style=for-the-badge" alt="Orca" />
       <img src="https://img.shields.io/badge/T3%20Code-AI%20UI-7C3AED?style=for-the-badge" alt="T3 Code" />
       <img src="https://img.shields.io/badge/Grok%20Bot-AI%20Bot-111827?style=for-the-badge" alt="Grok Bot" />
     </td>
