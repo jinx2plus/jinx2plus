@@ -101,6 +101,8 @@ AI창궐 시대에 어떻게 하면 밥그릇을 뻇기지 않을지 계속 고�
       <img src="https://img.shields.io/badge/Codex-Code%20%26%20Debugging-1F2937?style=for-the-badge" alt="Codex" />
       <img src="https://img.shields.io/badge/T3%20Code-AI%20UI-7C3AED?style=for-the-badge" alt="T3 Code" />
       <img src="https://img.shields.io/badge/Grok%20Bot-AI%20Bot-111827?style=for-the-badge" alt="Grok Bot" />
+      <img src="https://img.shields.io/badge/Muse-AI%20Bot-2563EB?style=for-the-badge" alt="Muse AI Bot" />
+      <img src="https://img.shields.io/badge/%ED%94%BC%ED%81%B4-AI%20Bot-059669?style=for-the-badge" alt="피클 AI Bot" />
     </td>
     <td valign="top" width="50%">
       <h4>Tools & VCS</h4>
