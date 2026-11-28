@@ -3,7 +3,7 @@
 # Yong Jin Park
 ### Spatial Data Engineer | Data Analyst | Mobility Business Strategist | Ph.D. Candidate
 Python/PostGIS 공간데이터 엔지니어링 + 교통공학&모빌리티 도메인 전공 + B2G 제안서 작성
-UPDATE on.. 2026-07-17
+UPDATE on.. 2026-11-28
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Spatial+Data+Engineer;Mobility+Business+Strategist;Ph.D.+Candidate+@+UOS;Python+%26+R+%26+PostGIS)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yjinpark-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yjinpark/)
@@ -50,6 +50,31 @@ AI창궐 시대에 어떻게 하면 밥그릇을 뻇기지 않을지 계속 고�
 - **도메인 기반 사업 기획**: 교통공학 도메인을 사업 의사결정 인사이트로 전환하여 신사업 아이템 제안으로 과제 2건 계약 성사 ([관련 링크](https://blog.naver.com/getcarvi2021/222993314515))
 - **정책 솔루션 제시**: 명절 기간 교통사고 발생 위험도 구간 도출 및 국토교통부 보고 -> 링크 군집화를 통한 정책 솔루션 제시 -> Tmap 이용자들 대상 실시간 안내 서비스 제공 중(2025년 12월 이후)
 - **이종 직군 및 이해관계자 협업 조율**: 백엔드·프론트엔드 개발자 및 국토교통부·공단 관계자와의 의사소통 간 윤활유 및 추진 역할로 AI 기반 모빌리티 솔루션을 실증 단계로 확장하고 후속 과제를 확보
+
+---
+
+## <img src="./reicon-icons/folder.svg" width="20" height="20" align="absmiddle" alt=""> 공개 프로젝트 | Public Projects
+
+### 교통·모빌리티 데이터 엔지니어링 | Mobility Data Engineering
+
+- **[MapmatchingTrajectorytoLinks](https://github.com/jinx2plus/MapmatchingTrajectorytoLinks)** — 화물차 DTG/GPS 궤적을 표준 노드-링크 체계에 정합하는 맵매칭 파이프라인 (공간 인덱싱 기반 후보 탐색·연속운전 구간 산출) `HTML · Python`
+- **[TrafficFlow_Intersections](https://github.com/jinx2plus/TrafficFlow_Intersections)** — DSRC/RSE 검지 데이터 기반 교차로 교통량·속도·통행시간 분석 및 시각화 `R`
+- **[seoul-protected-zone-gap](https://github.com/jinx2plus/seoul-protected-zone-gap)** — 서울시 보호구역 경계 밖 300m 생활동선과 사고다발지점을 결합해 안전시설 우선 배치 후보를 도출하는 공간분석 패키지 `Python · GeoPandas · Folium`
+- **[floodrisk](https://github.com/jinx2plus/floodrisk)** — 브이월드 재해위험지구 polygon과 표준 링크를 PostGIS 공간 조인해 링크 단위 침수위험 데이터셋을 구축 `Python · PostGIS`
+
+### 모델링·분석 | Modeling & Analysis
+
+- **[DEC_DLmodel](https://github.com/jinx2plus/DEC_DLmodel)** — 교통 검지기 시계열 데이터를 Autoencoder + DEC 잠재공간 군집으로 유형화하는 비지도 딥러닝 실험 `Python · Keras`
+- **[Zero-InflatedModelforAccidentAnalysis](https://github.com/jinx2plus/Zero-InflatedModelforAccidentAnalysis)** — 0이 많은 사고 건수를 Zero-Inflated Negative Binomial 신경망으로 모델링해 위험도와 정책효과를 해석 `Python · PyTorch`
+- **[LLM_sideproject](https://github.com/jinx2plus/LLM_sideproject)** — HD-Map 사고 노드·링크로 고위험 지점을 선별하고 LLM으로 교통안전 개선안을 생성·비교하는 실험 `Python · LLM`
+
+### 도구·스킬 | Tools & Skills
+
+- **[jinx2plus-agent-skills](https://github.com/jinx2plus/jinx2plus-agent-skills)** — Codex·Gajae Code에서 쓸 수 있는 portable `SKILL.md` 모음 (공간데이터·HWPX·PDF·코드 그래프·모델 프로필) `PowerShell`
+- **[trafficure-design-skill](https://github.com/jinx2plus/trafficure-design-skill)** — 교통·공간정보·ITS 대시보드를 위한 재사용 UI 디자인 스킬 패키지 v1.0 `CSS`
+- **[sports-team-colors](https://github.com/jinx2plus/sports-team-colors)** — NBA·NFL·MLB·EPL 프로팀 색조합과 로고 데이터로 데이터 시각화 팔레트를 제공 `Python`
+
+<sub>대표 공개 저장소 10개 · <a href="https://github.com/jinx2plus?tab=repositories">전체 저장소 보기</a></sub>
 
 ---
 
